@@ -7,4 +7,7 @@ class InteractiveRecord
     self.to_s.downcase.pluralize
   end
 
+  def self.clumn_names 
+  end
+
 end
